@@ -283,5 +283,6 @@ Ganador(resultado_jugador,resultado_rival)
 
 """"
 print(f"\n\n\nLas cartas que se usaron en esta partida son {len(cartas_en_uso)} -- {cartas_en_uso}")
+:)
 """
 
